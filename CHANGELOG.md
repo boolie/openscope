@@ -13,7 +13,7 @@
 
 
 ### Enhancements & Refactors
-
+- [#94](https://github.com/openscope/openscope/issues/94) - Adds @openscope/validator package with supporting npm script 
 
 
 
